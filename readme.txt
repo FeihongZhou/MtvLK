@@ -8,7 +8,7 @@ External functions:
 -toymodel2.m: generate time series for synthetic model2
 -toymodel3.m: generate time series for synthetic model3
 -SquareRootKalmanFilter2.m: the square root Kalman filter based on the Bierman-Thornton algorithm
--bierman.m, thornton.m, EMWA.m, UWMA.m, myUD.m, StandardCovEst.m, EWMACovEst.m: these code are used to implement SquareRootKalmanFilter2.m
+-bierman.m, thornton.m, EMWA.m, UWMA.m, myUD.m, StandardCovEst.m, EWMACovEst.m, myUnitTriSysSol.m: these code are used to implement SquareRootKalmanFilter2.m
 
 Scripts:
 -multiLK_toymodel1.m: realizes simulation studies a (synthetic model1)
