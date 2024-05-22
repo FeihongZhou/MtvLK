@@ -1,4 +1,4 @@
-function [T21zheng,err90,err95,err99] = multiLK_code(MAlen_shuru,NN_shuru,MA_shuru,np_shuru,varargin)
+function [dd,err90,err95,err99] = multiLK_code(MAlen_shuru,NN_shuru,MA_shuru,np_shuru,varargin)
 
 
 MAlen = MAlen_shuru;
